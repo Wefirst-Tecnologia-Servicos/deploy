@@ -1,0 +1,9 @@
+{
+  "http": {
+    "myip": "54.174.120.28",
+    "port": 3000,
+    "cors": {
+      "allowedOrigins": [ "*" ]
+    }
+  }
+}
