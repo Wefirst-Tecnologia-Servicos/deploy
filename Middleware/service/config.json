@@ -1,8 +1,0 @@
-{
-  "eMail": {
-    "sendGrid": {
-      "sender": "notrepply@wefirst.com.br",
-      "apiKey": "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"
-    }
-  }
-}
