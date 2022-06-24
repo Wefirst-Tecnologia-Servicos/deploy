@@ -1,0 +1,11 @@
+{
+  "dbConnection": {
+    "cockroach": "postgresql://victor:enJjSBNwx5HSj7KP9700lw@free-tier14.aws-us-east-1.cockroachlabs.cloud:26257/defaultdb?sslmode=verify-full&options=--cluster%3Dsienna-mastiff-1076",
+    "mySql": {
+      "host": "201.30.147.96",
+      "user": "SDG",
+      "password": "SDG",
+      "database": "leebank"
+    }
+  }
+}

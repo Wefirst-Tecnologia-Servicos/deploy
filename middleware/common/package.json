@@ -1,0 +1,11 @@
+{
+  "name": "common",
+  "version": "2.0.0",
+  "description": "Common utilities",
+  "author": {
+    "name": "WeFirst"
+  },
+  "dependencies": {
+    "@sendgrid/mail": "^7.6.2"
+  }
+}

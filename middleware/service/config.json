@@ -1,0 +1,34 @@
+{
+  "LEE-MARKETING": {
+    "email": {
+      "doubts": {
+        "template": {
+          "subject": "WebSite LeeBank: Tire suas duvidas",
+          "text": "Nome: ${SenderName}\nE-Mail: ${SenderEMail}\nDuvidas: ${Description}",
+          "html": "<strong>Nome: </strong>${SenderName}<br /><strong>E-Mail: </strong>${SenderEMail}<br /><strong>Duvidas: </strong>${Description}"
+        },
+        "sendGrid": {
+          "sender": "noreply@leebank.cn",
+          "recipient": "contato@leebank.cn",
+          "apiKey": "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"
+        }
+      }
+    }
+  },
+  "VIXI": {
+    "email": {
+      "doubts": {
+        "template": {
+          "subject": "WebSite Vixi: Tire suas duvidas",
+          "text": "Nome: ${SenderName}\nE-Mail: ${SenderEMail}\nDuvidas: ${Description}",
+          "html": "<strong>Nome: </strong>${SenderName}<br /><strong>E-Mail: </strong>${SenderEMail}<br /><strong>Duvidas: </strong>${Description}"
+        },
+        "sendGrid": {
+          "sender": "noreply@leebank.cn",
+          "recipient": "contato@leebank.cn",
+          "apiKey": "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"
+        }
+      }
+    }
+  }
+}

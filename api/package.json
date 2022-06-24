@@ -1,0 +1,20 @@
+{
+  "name": "api",
+  "version": "2.0.0",
+  "description": "Api",
+  "main": "server.js",
+  "author": {
+    "name": "WeFirst"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "swagger-autogen": "^2.21.1",
+    "swagger-ui-express": "^4.3.0"
+  },
+  "scripts": {
+    "start": "nodemon index.js",
+    "swagger-autogen": "node swagger.js"
+  }
+}
